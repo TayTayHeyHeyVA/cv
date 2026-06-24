@@ -275,23 +275,27 @@ export const music = [
     artwork: "images/marjorie.jfif",
     url: "https://open.spotify.com/track/2DllA6hfBk3wiA2TXDpyyu",
     years: "2025",
+    type: "Cover"
   },
   {
     title: "Milestones",
     artwork: "images/milestones.jfif",
     url: "https://open.spotify.com/track/4tBwJACA5W9l0hYSqdsPCo",
     years: "2025",
+    type: "Original (The Grotto)"
   },
   {
     title: "Chasing Cars",
     artwork: "images/cars.jfif",
     url: "https://open.spotify.com/track/4IPjkbIWMfpB7WSwmZlmce",
     years: "2024",
+    type: "Cover"
   },
   {
     title: "Souvenir",
     artwork: "images/souvenir.jpg",
     url: "https://on.soundcloud.com/SQMsKnGZhVhED4WIYM",
     years: "2024",
+    type: "Cover"
   }
 ];
