@@ -20,15 +20,15 @@ export const audiodramas = [
       artwork: "images/wbg.jpg",
       url: "https://woebegonepod.com/",
       years: "2023 – Present",
-      episodes: 29,
+      episodes: 31,
       roles: ["Chance (Supporting)"]
     },
     {
       title: "Forged Bonds",
       artwork: "images/forged-bonds.jfif",
       url: "https://open.spotify.com/show/2fBzQTuKKB8HC7fPyEbsJb",
-      years: "2024 – Present",
-      episodes: 20,
+      years: "2024 – 2026",
+      episodes: 37,
       roles: ["Ares (Principal)"]
     },
     {
@@ -36,14 +36,14 @@ export const audiodramas = [
       artwork: "images/fresh-meat.jfif",
       url: "https://freshmeatcast.com/",
       years: "2025 – Present",
-      episodes: 6,
+      episodes: 9,
       roles: ["Cooper Hackl (Principal)"]
     },
     {
       title: "Nowhere, On Air",
       artwork: "images/nowhere-on-air.jfif",
       url: "https://nowhereonairpodcast.weebly.com/",
-      years: "2023 – Present",
+      years: "2023 – 2025",
       episodes: 4,
       roles: ["Chip Roberts (Principal)", "Ominous Sponsor (Supporting)"]
     },
@@ -104,8 +104,8 @@ export const audiodramas = [
       artwork: "images/hi-nay.jfif",
       url: "https://hinaypod.com/",
       years: "2025",
-      episodes: 3,
-      roles: ["Motzie Dapul (Supporting)", "Barista 2 (Bit)"]
+      episodes: 5,
+      roles: ["Sal (Supporting)", "Motzie Dapul (Supporting)", "Barista 2 (Bit)"]
     },
     {
       title: "Somewhere, Ohio",
@@ -151,7 +151,7 @@ export const audiodramas = [
       title: "The Seven Planes",
       artwork: "images/planes.jfif",
       url: "https://open.spotify.com/show/1KbvIbGaohctCN8NVwRT32",
-      years: "2025 - Present",
+      years: "2025 - 2026",
       episodes: 1,
       roles: ["Aberration (Bit)"]
     },
@@ -175,10 +175,26 @@ export const audiodramas = [
       title: "No Return",
       artwork: "images/no-return.jfif",
       url: "https://noreturn.buzzsprout.com/",
-      years: "2024 – Present",
+      years: "2024 – 2025",
       episodes: 3,
       roles: ["Biksune Ree (Supporting)", "Saurian 2, Villager (Bit)"]
-    }
+    },
+    {
+      title: "Dominus",
+      artwork: "images/dominus.jfif",
+      url: "https://open.spotify.com/show/6dsHGsAaU0C94B3aghT2ZC",
+      years: "2026",
+      episodes: 1,
+      roles: ["Confessor (Supporting)"]
+    },
+    // {
+    //   title: "15 Second Mysteries",
+    //   artwork: "images/mysteries.jfif",
+    //   url: "https://open.spotify.com/show/7pOQZuIWaqSDWZpNEz9Orz",
+    //   years: "2026",
+    //   episodes: 0,
+    //   roles: ["Taylor Michaels"]
+    // },
   ];
 
 export const youtube_self = [
@@ -230,7 +246,17 @@ export const audiodrama_self = [
     }
 ];
 
-export const behind_the_scenes = youtube_self.concat(audiodrama_self);
+export const audiodrama_work = [
+  {
+    title: "[REDACTED]",
+    artwork: "images/redacted.jfif",
+    url: "https://www.theredactedunit.com/",
+    years: "2025 – Present",
+    roles: ["Production Assistant"]
+  },
+]
+
+export const behind_the_scenes = youtube_self.concat(audiodrama_self, audiodrama_work);
 
 export const analog_horror = [
   {
