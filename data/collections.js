@@ -148,6 +148,14 @@ export const audiodramas = [
       roles: ["Agent Jones (Supporting)"]
     },
     {
+      title: "The Seven Planes",
+      artwork: "images/planes.jfif",
+      url: "https://open.spotify.com/show/1KbvIbGaohctCN8NVwRT32",
+      years: "2025 - Present",
+      episodes: 1,
+      roles: ["Aberration (Bit)"]
+    },
+    {
       title: "Tales from the Fringes of Reality",
       artwork: "images/fringes.jfif",
       url: "https://thefringespod.carrd.co/",
