@@ -210,25 +210,25 @@ export const analog_horror = [
 export const music = [
   {
     title: "Marjorie",
-    artwork: "images/in-between.jfif",
+    artwork: "images/marjorie.jfif",
     url: "https://open.spotify.com/track/2DllA6hfBk3wiA2TXDpyyu",
     years: "2025",
   },
   {
     title: "Milestones",
-    artwork: "images/disclose.jfif",
+    artwork: "images/milestones.jfif",
     url: "https://open.spotify.com/track/4tBwJACA5W9l0hYSqdsPCo",
     years: "2025",
   },
   {
     title: "Chasing Cars",
-    artwork: "images/dream.jpg",
+    artwork: "images/cars.jfif",
     url: "https://open.spotify.com/track/4IPjkbIWMfpB7WSwmZlmce",
     years: "2024",
   },
   {
     title: "Souvenir",
-    artwork: "images/avast.jpeg",
+    artwork: "images/souvenir.jpg",
     url: "https://on.soundcloud.com/SQMsKnGZhVhED4WIYM",
     years: "2024",
   }
