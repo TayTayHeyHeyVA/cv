@@ -120,8 +120,8 @@ export const audiodramas = [
       artwork: "images/n2m.jfif",
       url: "https://open.spotify.com/show/6pdTtsWNSfxcorukdK7mI4",
       years: "2024",
-      episodes: 3,
-      roles: ["Bryce, Self (Principal), Steve (Bit)"]
+      episodes: 4,
+      roles: ["Bryce, Self (Principal)", "Operator (Supporting)", "Steve (Bit)"]
     },
     {
       title: "Among the Stacks",
@@ -251,7 +251,14 @@ export const audiodrama_self = [
     url: "https://open.spotify.com/episode/4oyaUa3xthTFHMtChuWOkm",
     years: "2024",
     roles: ["Script Editor, Sound Designer, Producer"]
-    }
+    },
+    {
+      title: "Nine to Midnight",
+      artwork: "images/n2m.jfif",
+      url: "https://open.spotify.com/episode/7dJCl5IzZHRm45xP2B83rH",
+      years: "2024",
+      roles: ["Script Editor"]
+    },
 ];
 
 export const audiodrama_work = [
