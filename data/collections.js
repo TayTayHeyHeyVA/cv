@@ -187,6 +187,14 @@ export const audiodramas = [
       episodes: 1,
       roles: ["Confessor (Supporting)"]
     },
+    {
+      title: "Syntax",
+      artwork: "images/syntax.jfif",
+      url: "https://open.spotify.com/show/1MqJV8uZ81mjgHn1glJfk9",
+      years: "2026",
+      episodes: 1,
+      roles: ["Theta Team 1 (Bit)"]
+    },
     // {
     //   title: "15 Second Mysteries",
     //   artwork: "images/mysteries.jfif",
