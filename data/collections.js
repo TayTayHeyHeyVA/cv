@@ -20,7 +20,7 @@ export const audiodramas = [
       artwork: "images/wbg.jpg",
       url: "https://woebegonepod.com/",
       years: "2023 – Present",
-      episodes: 31,
+      episodes: 37,
       roles: ["Chance (Supporting)"]
     },
     {
@@ -104,7 +104,7 @@ export const audiodramas = [
       artwork: "images/hi-nay.jfif",
       url: "https://hinaypod.com/",
       years: "2025",
-      episodes: 5,
+      episodes: 7,
       roles: ["Sal (Supporting)", "Motzie Dapul (Supporting)", "Barista 2 (Bit)"]
     },
     {
@@ -120,8 +120,8 @@ export const audiodramas = [
       artwork: "images/n2m.jfif",
       url: "https://open.spotify.com/show/6pdTtsWNSfxcorukdK7mI4",
       years: "2024",
-      episodes: 2,
-      roles: ["Bryce, Self (Principal)"]
+      episodes: 3,
+      roles: ["Bryce, Self (Principal), Steve (Bit)"]
     },
     {
       title: "Among the Stacks",
