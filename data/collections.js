@@ -8,14 +8,6 @@ export const audiodramas = [
       roles: ["David (Principal)"]
     },
     {
-      title: "[REDACTED]",
-      artwork: "images/redacted.jfif",
-      url: "https://www.theredactedunit.com/",
-      years: "2025 – Present",
-      episodes: 3,
-      roles: ["Mars Donovan (Supporting)"]
-    },
-    {
       title: "WOE.BEGONE",
       artwork: "images/wbg.jpg",
       url: "https://woebegonepod.com/",
@@ -24,20 +16,28 @@ export const audiodramas = [
       roles: ["Chance (Supporting)"]
     },
     {
-      title: "Forged Bonds",
-      artwork: "images/forged-bonds.jfif",
-      url: "https://open.spotify.com/show/2fBzQTuKKB8HC7fPyEbsJb",
-      years: "2024 – 2026",
-      episodes: 37,
-      roles: ["Ares (Principal)"]
-    },
-    {
       title: "Fresh Meat",
       artwork: "images/fresh-meat.jfif",
       url: "https://freshmeatcast.com/",
       years: "2025 – Present",
       episodes: 9,
       roles: ["Cooper Hackl (Principal)"]
+    },
+    {
+      title: "[REDACTED]",
+      artwork: "images/redacted.jfif",
+      url: "https://www.theredactedunit.com/",
+      years: "2025 – Present",
+      episodes: 8,
+      roles: ["Mars Donovan (Supporting), Bad Monologuing Student (Bit), Self (Player)"]
+    },
+    {
+      title: "Forged Bonds",
+      artwork: "images/forged-bonds.jfif",
+      url: "https://open.spotify.com/show/2fBzQTuKKB8HC7fPyEbsJb",
+      years: "2024 – 2026",
+      episodes: 37,
+      roles: ["Ares (Principal)"]
     },
     {
       title: "Someone Dies in this Elevator",
@@ -104,8 +104,8 @@ export const audiodramas = [
       artwork: "images/ohio.jfif",
       url: "https://somewhereohio.com/podcast/the-department-of-variance-of-somewhere-ohio",
       years: "2023",
-      episodes: 2,
-      roles: ["Fern Daemon (Supporting)", "Boris (Supporting)"]
+      episodes: 3,
+      roles: ["Fern Daemon (Supporting)", "Boris (Supporting)", "Self (Player)"]
     },
     {
       title: "The Storage Papers",
